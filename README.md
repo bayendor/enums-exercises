@@ -40,8 +40,8 @@ We recommend you...
 
 You'll find the exercises in `exercises/` and we recommend working in this order:
 
-<!-- * `map` -->
-<!-- * `select` -->
+* `map` 
+* `select` 
 * `reject`
 * `any?`
 * `all?`
